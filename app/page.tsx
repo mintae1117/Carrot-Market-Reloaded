@@ -1,6 +1,6 @@
 
 export default function Home() {
   return (
-    <main>hello</main>
+    <main className="bg-black text-white">hello</main>
   );
 }
